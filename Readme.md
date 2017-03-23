@@ -1,3 +1,7 @@
+## Introduce
+
+[tmux：打造精致与实用并存的终端](https://segmentfault.com/a/1190000008188987)
+
 ## Config
 ``` sh
 $ git clone git@github.com:shfshanyue/tmux-config.git
